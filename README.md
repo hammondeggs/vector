@@ -9,7 +9,7 @@ I've been having a ton of fun creating these plugins, and it's thirsty work. If 
 
 This can be done here :  [Donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MSTCVLXMG7Z5J&source=url)
 
-##
+## please read this entire document before installing or using this software.
 
 __Vector__, is a delay effect that outputs X/Y co-ordinate data from the LEFT and RIGHT channels of your synthesizer for output to an X/Y capable analog oscilloscope. Digital oscilloscopes will likely produce substandard results, although some higher end models may be able to emulate the analog characteristics more closely.
 
