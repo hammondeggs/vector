@@ -17,7 +17,7 @@ Now, to acheive the highest signal to noise ratio, the effect will output using 
 
 In addition, be forewarned that the video output generated with this application, uses a variable refresh rate - that is, the more items to be drawn, the slower the refresh rate. This may cause a noticeable flicker, and should be taken into consideration for anyone who may be susceptible to this.
 
-To use this you currently will require an analog oscilloscope, and to be at least reasonably familiar with it. With the oscilloscope channels set to DC coupling, connect the LEFT channel to the X input probe and the RIGHT channel to the Y input probe. Or, if you wish to rotate the display, feel free to connect this in reverse. If for some reason your display appears to be 'upside down', you may need to select the channel inversion on your oscilloscope for the Y channel.
+To use this you currently will require an analog oscilloscope, and to be familiar with the use and operation of it. With the oscilloscope channels set to DC coupling, connect the LEFT channel to the X input probe and the RIGHT channel to the Y input probe. Or, if you wish to rotate the display, feel free to connect this in reverse. If for some reason your display appears to be 'upside down', you may need to select the channel inversion on your oscilloscope for the Y channel.
 
 Next, enable the effect and view the oscilloscope screen. You should see some form of video display slowly growing in size. After a few seconds it should be complete, and is now fully playable. You will very likely need to tweak your oscilloscope channel amplitude settings and offsets (again here you will need to be comfortable with the use and operation of your specific oscilloscope) to centre the picture. Note the "MASTER" volume knob on your synthesizer will also set the overall picture size as well. It may help to use the standard timebase mode on your oscilloscope to ensure that both channels are receiving picture data.
 
@@ -40,3 +40,5 @@ Eliminating all of the enemies will add an extra life, until you reach a maximum
 
 There is no score. There are no alpha-numeric characters at this point. The hit detection on the enemy X's could be improved.
 
+
+ *All product names, trademarks and registered trademarks are property of their respective owners.*
