@@ -1,4 +1,4 @@
-# WARNING! This application generates signals from your synthesizer that are __NOT__ intended for audio use! This is __experimental__ software, and to be used __at your own risk__!
+# WARNING! This application generates comparatively LOUD signals from your synthesizer that are __NOT__ intended for audio use! This is __experimental__ software, and to be used __at your own risk__!
 
 # Vector
 
